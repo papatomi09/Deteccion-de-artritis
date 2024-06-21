@@ -20,9 +20,6 @@ Principales algoritmos:  DecisionTreeClassifier, RandomForestClassifier y SVC (S
 
 Dataset utilizado: https://www.kaggle.com/datasets/farjanakabirsamanta/osteoarthritis-prediction/data
 
-Codigo:
-
-
 link del codigo en collaboratory: https://colab.research.google.com/drive/1znXyKrnebowcOrex-jin_bgT6qQEdY2-?usp=sharing 
 
 Video: (-----)
