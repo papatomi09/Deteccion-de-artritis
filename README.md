@@ -16,7 +16,7 @@ Objetivo:
 Desarrollar e implementar un apoyo para los especialistas medicos e incluso personas del común para identificar a personas que puedan llegar a padecer de artritis.
 IMPORTANTE: cabe aclarar que este apoyo es propuesto con fines de estudio de pacientes con artritis pero no debe ser tomado como fuente 100% confiable, en caso de sentir algun padecimiento consulte con un medico.
 
-Principales algoritmos:
+Principales algoritmos:  DecisionTreeClassifier, RandomForestClassifier y SVC (Support Vector Classifier
 
 Dataset utilizado: https://www.kaggle.com/datasets/farjanakabirsamanta/osteoarthritis-prediction/data
 
