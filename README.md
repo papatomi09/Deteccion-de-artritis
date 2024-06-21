@@ -22,4 +22,6 @@ Dataset utilizado: https://www.kaggle.com/datasets/farjanakabirsamanta/osteoarth
 
 link del codigo en collaboratory: https://colab.research.google.com/drive/1znXyKrnebowcOrex-jin_bgT6qQEdY2-?usp=sharing 
 
+link del respositorio de git: https://github.com/papatomi09/Deteccion-de-artritis
+
 Video: (-----)
