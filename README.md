@@ -24,4 +24,4 @@ link del codigo en collaboratory: https://colab.research.google.com/drive/1znXyK
 
 link del respositorio de git: https://github.com/papatomi09/Deteccion-de-artritis
 
-Video: (-----)
+Video: [(-----)](https://youtu.be/Rb0MTy1o7IY)
